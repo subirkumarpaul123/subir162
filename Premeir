@@ -312,9 +312,9 @@ https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png" group-title="Bangla News",TBN 24 USA
-https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
-https://www.tbn24.com/live-tv-stream/20201_.m3u8
-
+#https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#https://www.tbn24.com/live-tv-stream/20201_.m3u8
+http://line.boxfreshiptv.xyz:80/play/live.php?mac=00:1A:79:34:62:35&stream=1169994&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Bangla Music",Gaan Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
@@ -1114,7 +1114,7 @@ https://s2.itcnbd.live/server-2/stream/tlc_sd.m3u8
 https://s2.itcnbd.live/server-2/stream/tlc_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
-http://103.229.254.25:7001/play/a038/index.m3u8
+http://line.boxfreshiptv.xyz:80/play/live.php?mac=00:1A:79:34:62:35&stream=282665&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
 http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Information",Nat Geo HD
@@ -1272,7 +1272,7 @@ http://103.175.73.12:8080/live/124/124_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png"group-title="KIDS",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 #EXTINF:-1 tvg-logo=""group-titDoU"KIDS",Wow Kids
-
+http://line.boxfreshiptv.xyz:80/play/live.php?mac=00:1A:79:34:62:35&stream=2124482&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="KIDS",Pogo
