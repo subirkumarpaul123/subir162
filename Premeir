@@ -1150,7 +1150,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Information",Colors Infinity SD
-http://103.175.73.12:8080/live/28/28_0.m3u8
+http://live.balajibroadband.com:3500/live/1325.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Information",Colors Infinity HD
 http://66.102.126.10:8000/play/a014/index.m3u8
@@ -1251,7 +1251,7 @@ https://s2.itcnbd.live/server-2/stream/sonyyay.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick Bangla
-http://103.182.170.32:8888/play/a04q
+http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="KIDS",Nick HD Plus
@@ -1261,8 +1261,7 @@ http://103.175.73.12:8080/live/322/322_0.m3u8
 http://103.182.170.32:8888/play/a02q
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png"group-title="KIDS",Sonic Bangla
-http://103.182.170.32:8888/play/a02s
-http://103.175.73.12:8080/live/124/124_0.m3u8
+http://live.balajibroadband.com:3500/live/1345.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Kids",Super Hungama TV
 
@@ -1483,7 +1482,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News",RT Now
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+http://live.balajibroadband.com:3500/live/1338.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
