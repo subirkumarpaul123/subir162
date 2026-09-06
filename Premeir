@@ -1174,6 +1174,8 @@ http://103.175.73.12:8080/live/443/443_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD Bangla
 http://66.102.126.10:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD
+http://103.159.180.34:5001/live/562.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP HD
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Information",Travel XP GB
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
@@ -1203,8 +1205,8 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",4k Nature
 
 
-#EXTINF:-1 tvg-logo="" group-title="Information",Xlpore English
-
+#EXTINF:-1 tvg-logo="" group-title="Information",Good Times
+http://103.159.180.34:5001/live/560.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Zee Zast HD
 http://103.175.73.12:8080/live/326/326_0.m3u8
@@ -1216,7 +1218,7 @@ http://103.175.73.12:8080/live/327/327_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Information",Food Network
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Food Food
-http://103.175.73.12:8080/live/143/143_0.m3u8
+http://103.159.180.34:5001/live/561.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",CGTN Docment
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
