@@ -75,7 +75,7 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV World
-
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9jf8sm4JqAgGibsGkL1eU4mBNHzsh_iiJ6rzls5YqrpI/m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV Chattogram
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.m3u8
@@ -254,6 +254,8 @@ http://198.195.239.50:8095/duranta/tracks-v1a1/mono.m3u8
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
 #https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangla News",Somoy TV
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9jf8sm4JqAgGibsGkL1eU4kmsa3hiFVIfpBJl0gFu_Md/m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangla News",Independent TV
 #https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
