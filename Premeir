@@ -99,7 +99,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
 https://tvsen3.aynaott.com/Sports1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
-
+http://vpsbd.cloudbd.one/newr/T-SPORTS-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Bangla",T Sports 
@@ -618,7 +618,7 @@ http://103.175.73.12:8080/live/9/9_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors
 http://livetv.akr4m.com:8080/bdtv/restrem/60.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors
-
+http://vpsbd.cloudbd.one/newr/COLORS.HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
@@ -1127,7 +1127,7 @@ http://103.175.73.12:8080/live/133/133_0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth
-http://66.102.126.10:8000/play/a01r/index.m3u8
+http://vpsbd.cloudbd.one/newr/SONY.BBC.EARTH.HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Information",Sony BBC Earth HD
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 
@@ -1339,7 +1339,7 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="English Movies",Sony Pix HD
-http://66.102.126.10:8000/play/a01z/index.m3u8
+http://vpsbd.cloudbd.one/newr/SONY.PIX.HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Movies",Zee Cafe
 http://66.102.126.10:8000/play/a076/index.m3u8
@@ -1354,7 +1354,7 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="English Movies",MNX HD
-
+http://vpsbd.cloudbd.one/newr/MNX.HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikiMTVia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="English Movies",Lotus Macau
 
