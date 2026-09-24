@@ -19,6 +19,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
+https://tvsen7.aynascope.net/ssport2hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
@@ -46,6 +48,8 @@ https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.clo
 https://flussonic.defineatoz.com/PTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
+https://tvsen7.aynascope.net/asports-bkp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
 https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/TENSPORTS_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"group-title="Live Sports",Live Sports
@@ -1142,13 +1146,15 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 
 #EXTINF:-1 tvg-logo="" group-title="Information",BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00793-bbcstudios-bbcearta-lgus/cb573d1e786c678784cb3d62cef74382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ad7f4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7ffe05d4dd86df3b5011a927913fa83439fd501b3d4870a83418025a5139bc1a48c80128be4295293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f947b77420df30513b301934ec647e2d00438d5806ddac39fd7434a38e4e052772eb3ecaf84b95a5b07c8cad08b8c2006fcd21c794cc827be484f69c2ad9246c4ab7fe7a68d6d06d7bd6fe0e8aa1f0fcd311886ad00f604d9cef5d7194a4f6805384b3cc89540d433d474a4cf5c74121d04e5ad5cca82d649232261b2c00f845d4be29bbc8ad1586f9120030cbc29997a157cc0315b79e706f08e7339da7144d6637db3731db46fd0f46cf9aed0e0461cb0ddcc4db62fccbd18ddfb07e63c6c004ce3bc7c11150c4ed1e8671f39369616b39d99b7057c6a86c0c4f0c45c2f147946027eecccd330cade8e796755ab35016f7b171b937ea64ad712460d2b8953939b007a8109363ea4c01b58496782c7a18be68f2a2575f5607a9b384328d187d51119e5cabecd0641df8e/9/960x540_2116852/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png" group-title="Information", CGTN Documentary
 #https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Information",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Information",Colors Infinity SD
 
