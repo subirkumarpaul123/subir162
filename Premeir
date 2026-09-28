@@ -189,7 +189,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla",Asian TV
-http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/01.m3u8
+https://tvx.kbhub.online/Bangladesh/Asian-TV-NF.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla",Bangla TV
@@ -657,7 +658,7 @@ http://198.195.239.50:8095/ZEE.TV.HD/tracks-v1a1/mono.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:94:98:FE
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi Movies",Zee Anmol TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png"group-title="Hindi",Zee Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8
 
 
@@ -676,14 +677,14 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1  group-title="Hindi" tvg-logo="",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
 
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Movies 1
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Movies 2
-https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Movies 3
+#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Movies 
+
+#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Movies 
+https://tvx.kbhub.online/Movies/Hindi-Classic-24.m3u8
+#EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Movies 
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",Hinde Dabbing Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+https://tvx.kbhub.online/Movies/South-India-Movie.m3u8
 
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",The Movie Club
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
@@ -1418,8 +1419,9 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music",9XM
 http://198.195.239.50:8095/9XM.MUSIC/tracks-v1a1/mono.m3u8
+#https://tvx.kbhub.online/Music/9XM-Music.m3u8
 #EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="Hindi Music",9X Jalwa
-
+https://tvx.kbhub.online/Music/9X-Jalwa.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",9X Tashan
 
 
