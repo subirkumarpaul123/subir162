@@ -679,11 +679,11 @@ https://tvx.kbhub.online/Movies/South-India-Movie.m3u8
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",South Station 3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max
-
 http://198.195.239.50:8095/SONY.MAX.HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max HD
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+#http://103.151.60.162:2122/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Max.png"group-title="Hindi Movies",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
@@ -697,7 +697,7 @@ https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema
-
+#http://103.151.60.162:2122/play/a012/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/63.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema HD
