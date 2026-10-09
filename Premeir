@@ -679,7 +679,7 @@ https://tvx.kbhub.online/Movies/South-India-Movie.m3u8
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",The Movie Club
 
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",South Station
-
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",South Station 2
 
 #EXTINF:-1  group-title="Hindi Movies" tvg-logo="",South Station 3
@@ -1417,14 +1417,14 @@ http://198.195.239.50:8095/MTV.INDIA/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",B4U Music
-
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",Mastii Music
 
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music",E24
-
+https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png"group-title="Hindi Music",E24
 
 
