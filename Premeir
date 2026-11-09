@@ -257,9 +257,10 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Bangla Movies
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="KIDS",Duronto TV
-http://198.195.239.50:8095/duranta/tracks-v1a1/mono.m3u8
-#https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
-#https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+https://footfytv.pro/proxy/direct?url=http%3A%2F%2F103.114.11.37%3A8081%2FDuronto%2Ftracks-v1a1%2F2026%2F11%2F09%2F08%2F27%2F00-06000.ts%3Ftoken%3Dsboxcast
+https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7ESEccxCMNT4Rt_f8E1vC__-pglZ6COUTqdbPLWTRVMfVQ3kKgaobkHp&s=10"group-title="KIDS",Mena Cartoon Bangla
 
